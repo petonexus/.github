@@ -2,13 +2,13 @@
 
 # Petonexus
 
-### VR mods and tools for exploring PC games in new ways
+### VR mods, modding tools, and original games
 
-[Trails VR](https://www.trailsvr.pro) · [Projects](https://github.com/orgs/petonexus/repositories) · [Support development](https://ko-fi.com/E1M127SS9U)
+[Trails VR](https://www.trailsvr.pro) · [Gymmons](https://gymmons.app/app) · [Projects](https://github.com/orgs/petonexus/repositories) · [Support development](https://ko-fi.com/E1M127SS9U)
 
 </div>
 
-Petonexus builds native VR experiences, practical modding tools, and reversible installation workflows. Our current focus is bringing **The Legend of Heroes: Trails of Cold Steel** to VR and making PC game modding easier to understand, install, verify, and undo.
+Petonexus builds native VR experiences, practical modding tools, and original games. Our current focus is bringing **The Legend of Heroes: Trails of Cold Steel** to VR and making PC game modding easier to understand, install, verify, and undo. We also create original experiences such as **Gymmons**.
 
 ## Featured projects
 
@@ -34,12 +34,24 @@ Its data-driven capabilities already cover workflows around UEVR, OpenXR helpers
 
 [Explore Moddin Desktop](https://github.com/petonexus/moddin-desktop) · [Contribute a capability](https://github.com/petonexus/moddin-community-capabilities)
 
+### Gymmons
+
+An original collectible fitness app where real workouts power your progress. Each check-in earns experience, helps hatch GymOvos, evolves your Gymmons, and moves you and your friends forward in private leagues.
+
+- Log workouts, duration, notes, and photos
+- Hatch, collect, and evolve original creatures
+- Build streaks, unlock achievements, and track progress
+- Join private leagues with friends and watch automatic battles
+
+[Visit the Gymmons website](https://gymmons.app/app) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.petonexus.gymmonsfront) · [Download on the App Store](https://apps.apple.com/br/app/gymmons/id6798862893)
+
 ## Projects
 
 | Project | Purpose | Status |
 | --- | --- | --- |
 | [Trails of Cold Steel VR](https://github.com/petonexus/tocs-vr-releases) | Native OpenXR VR mod and official release channel | Early alpha |
 | [Moddin Desktop](https://github.com/petonexus/moddin-desktop) | Reversible Windows mod manager | Active development |
+| [Gymmons](https://gymmons.app/app) | Collectible fitness game for Android and iPhone | Available now |
 | [Community Capabilities](https://github.com/petonexus/moddin-community-capabilities) | Reviewed, data-driven installation recipes for Moddin | Open to contributions |
 | [SenPatcher](https://github.com/petonexus/SenPatcher) | Fork of the Falcom game patcher and mod loader by AdmiralCurtiss | Supporting technology |
 
@@ -53,10 +65,11 @@ Its data-driven capabilities already cover workflows around UEVR, OpenXR helpers
 ## Get involved
 
 - Follow [Trails VR](https://www.trailsvr.pro) for project updates.
+- Train, collect, and evolve with [Gymmons](https://gymmons.app/app).
 - Open an issue in the relevant repository to report a bug or propose an improvement.
 - Add a new installation recipe to the [community capability catalog](https://github.com/petonexus/moddin-community-capabilities/blob/main/SUBMITTING.md).
 - Support continued VR development on [Ko-fi](https://ko-fi.com/E1M127SS9U).
 
 ## Disclaimer
 
-Petonexus projects are independent, fan-made work. They are not affiliated with or endorsed by Nihon Falcom or the publishers of supported games. Game names and related intellectual property belong to their respective owners.
+Trails VR and other projects that modify third-party games are independent, fan-made work. They are not affiliated with or endorsed by Nihon Falcom or the publishers of supported games. Game names and related intellectual property belong to their respective owners. Gymmons is an original Petonexus project.
