@@ -2,13 +2,13 @@
 
 # Petonexus
 
-### VR mods, modding tools, and original games
+### Native VR mods and Gymmons
 
-[Trails VR](https://www.trailsvr.pro) · [Gymmons](https://gymmons.app/app) · [Projects](https://github.com/orgs/petonexus/repositories) · [Support development](https://ko-fi.com/E1M127SS9U)
+[Trails VR](https://www.trailsvr.pro) · [Gymmons](https://gymmons.app/app) · [Support us on Ko-fi](https://ko-fi.com/E1M127SS9U)
 
 </div>
 
-Petonexus builds native VR experiences, practical modding tools, and original games. Our current focus is bringing **The Legend of Heroes: Trails of Cold Steel** to VR and making PC game modding easier to understand, install, verify, and undo. We also create original experiences such as **Gymmons**.
+Petonexus builds native VR experiences and **Gymmons**, our original collectible fitness game. Our two flagship projects bring a beloved PC RPG into virtual reality and turn real workouts into a creature-collecting adventure.
 
 ## Featured projects
 
@@ -26,14 +26,6 @@ A fan-made native OpenXR VR mod for the PC version of *The Legend of Heroes: Tra
 
 > The project is in active development. No public build is available yet.
 
-### Moddin Desktop
-
-A Windows-first mod manager for VR mods, performance tools, overlays, and game tweaks. Moddin detects installed games, previews every change, keeps backups, verifies installations, and can undo what it applied.
-
-Its data-driven capabilities already cover workflows around UEVR, OpenXR helpers, OBS VR capture, OptiScaler, ReShade, and other game-specific tools.
-
-[Explore Moddin Desktop](https://github.com/petonexus/moddin-desktop) · [Contribute a capability](https://github.com/petonexus/moddin-community-capabilities)
-
 ### Gymmons
 
 An original collectible fitness app where real workouts power your progress. Each check-in earns experience, helps hatch GymOvos, evolves your Gymmons, and moves you and your friends forward in private leagues.
@@ -45,13 +37,29 @@ An original collectible fitness app where real workouts power your progress. Eac
 
 [Visit the Gymmons website](https://gymmons.app/app) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.petonexus.gymmonsfront) · [Download on the App Store](https://apps.apple.com/br/app/gymmons/id6798862893)
 
-## Projects
+## Support the projects
+
+Petonexus is built independently. If you want to help Trails VR and Gymmons keep growing, you can support their development on Ko-fi.
+
+[Support Petonexus on Ko-fi](https://ko-fi.com/E1M127SS9U)
+
+## Tools and supporting projects
+
+### Moddin Desktop
+
+A Windows-first mod manager for VR mods, performance tools, overlays, and game tweaks. Moddin detects installed games, previews every change, keeps backups, verifies installations, and can undo what it applied.
+
+Its data-driven capabilities already cover workflows around UEVR, OpenXR helpers, OBS VR capture, OptiScaler, ReShade, and other game-specific tools.
+
+[Explore Moddin Desktop](https://github.com/petonexus/moddin-desktop) · [Contribute a capability](https://github.com/petonexus/moddin-community-capabilities)
+
+## Project directory
 
 | Project | Purpose | Status |
 | --- | --- | --- |
 | [Trails of Cold Steel VR](https://github.com/petonexus/tocs-vr-releases) | Native OpenXR VR mod and official release channel | Early alpha |
-| [Moddin Desktop](https://github.com/petonexus/moddin-desktop) | Reversible Windows mod manager | Active development |
 | [Gymmons](https://gymmons.app/app) | Collectible fitness game for Android and iPhone | Available now |
+| [Moddin Desktop](https://github.com/petonexus/moddin-desktop) | Reversible Windows mod manager | Active development |
 | [Community Capabilities](https://github.com/petonexus/moddin-community-capabilities) | Reviewed, data-driven installation recipes for Moddin | Open to contributions |
 | [SenPatcher](https://github.com/petonexus/SenPatcher) | Fork of the Falcom game patcher and mod loader by AdmiralCurtiss | Supporting technology |
 
@@ -66,9 +74,9 @@ An original collectible fitness app where real workouts power your progress. Eac
 
 - Follow [Trails VR](https://www.trailsvr.pro) for project updates.
 - Train, collect, and evolve with [Gymmons](https://gymmons.app/app).
+- Support independent development on [Ko-fi](https://ko-fi.com/E1M127SS9U).
 - Open an issue in the relevant repository to report a bug or propose an improvement.
 - Add a new installation recipe to the [community capability catalog](https://github.com/petonexus/moddin-community-capabilities/blob/main/SUBMITTING.md).
-- Support continued VR development on [Ko-fi](https://ko-fi.com/E1M127SS9U).
 
 ## Disclaimer
 
